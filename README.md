@@ -1,7 +1,13 @@
-# 19CS408--ATM
-
+# EX NO: 1- ATM AND BANKING SYSTEM 
+# DATE:
 ### NAME: THIRISHA A
 ### REG NO: 212223040228
+  
+# AIM:
+To study the problem statement, SRS document and draw all the UML diagrams of ATM System.
+
+# PROBLEM STATEMENT:
+To create ATM System software that will meet the needs of the applicant and help them to withdraw money,deposit.
 
 ### USECASE DIAGRAM:
 
